@@ -1,0 +1,19 @@
+
+ Liste des options :
+
+	-h: Afficher le help détaillé à partir d’un fichier texte. 
+
+	-s: Afficher la fonction show_usage.
+
+	-g: Afficher un menu textuel et gérer les fonctionnalité de façon  
+		graphique(Utilisation de YAD).
+ 
+	-v: Afficher le nom des auteurs et version du code.
+ 
+	-m: Afficher un menu textuel.
+
+	-d: Déverouiller le compte d’un utilisateur.
+
+	-V: Verouiller le compte d’un utilisateur.
+
+	-M: Modifier le repertoire personnel de l’utilisateur.
